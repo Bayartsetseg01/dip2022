@@ -1,0 +1,118 @@
+.circleBtn{
+    height:55px;
+    width:55px;
+    border-radius:  50%;
+    margin: 5px;
+    border: none;
+    background-color: rgb(1, 194, 17);
+
+}
+
+.msginp{
+    width:100%;
+    height:55px;
+    border-radius: 10px 10px;
+    margin-top: 5px;
+    margin-left: 10px;
+    border: none;
+    padding-left: 10px;
+
+}
+
+.cola{
+    height:65px;
+    width:65px;
+    padding-left: 0px;
+}
+.msgalignend{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.msgalignstart{
+    display: flex;
+    justify-content: flex-start;
+    min-height: 5px;
+    
+}
+
+.botmsg{
+    /* background-color: rgb(212, 211, 213); */
+    border : 1px solid rgb(5, 150, 37);
+    background-color: rgb(1, 194, 17);
+    padding-left: 15px;
+    padding-right: 15px;
+    height:auto;
+    min-height: 45px;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    border-radius: 10px;
+    max-width: 20rem;
+    font-size:12px;
+}
+
+.usermsg{
+    background-color: #00BDFE;
+    border : 1px solid #065ba6;
+    padding-left: 15px;
+    padding-right: 15px;
+    height:auto;
+    min-height: 45px;
+    padding-top: 6px;
+    padding-bottom: 4px;
+    border-radius: 10px;
+    max-width: 25rem;
+    font-size: 12px;
+    
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(88, 203, 241); 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #7fe9f9; 
+  }
+
+.botIcon{
+    font-size: 45px;
+    border : 1px solid rgb(5, 150, 37);
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+.bot{
+    font-size: 60px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+.userIcon{
+    font-size: 40px;
+    border : 1px solid #05539c;
+    border-radius: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px;
+
+}
+
+.sendBtn{
+    font-size:25px;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "63689bd9e5e07918c5365a52",
+        "name": "Mr.Zoljargal",
+        "email": "company@gmail.com",
+        "password": "jira_pass",
+        "company": "Jira",
+        "ip": "10.0.0.0.7",
+        "__v": 0
+    },
+    {
+        "_id": "636904abaf30225976681873",
+        "name": "Mrs.Totoro",
+        "email": "totoro3259@gmail.com",
+        "password": "totoro_pass",
+        "company": "Onom foundation",
+        "ip": "10.10.10.10.2",
+        "__v": 0
+    },
+    {
+        "_id": "63690500af30225976681876",
+        "name": "Mrs.Bayartsetseg",
+        "email": "dbayaraa1112@gmail.com",
+        "password": "bayartsetseg_pass",
+        "company": "Onom foundation",
+        "ip": "10.10.10.10.1",
+        "__v": 0
+    },
+    {
+        "_id": "636b64275878ba24bb19d370",
+        "name": "Mrs",
+        "email": "num@gmail.com",
+        "password": "mrs_pass",
+        "company": "NUM",
+        "ip": "10.10.10.10.3",
+        "__v": 0
+    }
+]
